@@ -10,4 +10,9 @@ class DemoEurekaZuulApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	public void poi(){
+		System.out.println(1111111);
+	}
+
 }
